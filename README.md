@@ -4,12 +4,12 @@ Projeto desenvolvido como parte do desafio **"Publicando Sua API REST na Nuvem U
 
 ## Tecnologias utilizadas
 
-- **Java 17** — versão LTS utilizada para aproveitar os recursos mais recentes da linguagem.
-- **Spring Boot 3** — base do projeto, com autoconfiguração e setup simplificado.
-- **Spring Data JPA** — abstração da camada de persistência, integrada ao PostgreSQL em produção e H2 em desenvolvimento.
-- **Bean Validation (jakarta.validation)** — validação declarativa dos dados de entrada nos endpoints.
-- **OpenAPI / Swagger** — documentação automática da API, acessível via `/swagger-ui.html`.
-- **Railway** — plataforma de deploy em nuvem com suporte a PostgreSQL como serviço.
+- **Java 17** - versão LTS utilizada para aproveitar os recursos mais recentes da linguagem.
+- **Spring Boot 3** - base do projeto, com autoconfiguração e setup simplificado.
+- **Spring Data JPA** - abstração da camada de persistência, integrada ao PostgreSQL em produção e H2 em desenvolvimento.
+- **Bean Validation (jakarta.validation)** - validação declarativa dos dados de entrada nos endpoints.
+- **OpenAPI / Swagger** - documentação automática da API, acessível via `/swagger-ui.html`.
+- **Railway** - plataforma de deploy em nuvem com suporte a PostgreSQL como serviço.
 
 ## Evolução aplicada (nível avançado)
 
@@ -116,4 +116,4 @@ classDiagram
 
 - Repositório original do desafio: [github.com/falvojr/santander-dev-week-2023](https://github.com/falvojr/santander-dev-week-2023)
 - Versão de referência avançada: [github.com/digitalinnovationone/santander-dev-week-2023-api](https://github.com/digitalinnovationone/santander-dev-week-2023-api)
-- Design no Figma: [Santander — Projeto Web/Mobile](https://www.figma.com/file/0ZsjwjsYlYd3timxqMWlbj/SANTANDER---Projeto-Web%2FMobile?type=design&node-id=1421%3A432&mode=design&t=6dPQuerScEQH0zAn-1)
+- Design no Figma: [Santander - Projeto Web/Mobile](https://www.figma.com/file/0ZsjwjsYlYd3timxqMWlbj/SANTANDER---Projeto-Web%2FMobile?type=design&node-id=1421%3A432&mode=design&t=6dPQuerScEQH0zAn-1)
